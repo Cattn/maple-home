@@ -32,7 +32,7 @@
             <iconify-icon icon="material-symbols:help"></iconify-icon>
             More Info
         </Button>
-        <Button variant="filled" iconType="left" onclick={() => {location.href = 'https://maple.kolf.pro/'}}>
+        <Button variant="filled" iconType="left" onclick={() => {location.href = 'https://play.maple.music/'}}>
             <iconify-icon icon="material-symbols:arrow-outward-rounded"></iconify-icon>
             Open
         </Button>
