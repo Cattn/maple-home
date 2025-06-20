@@ -6,7 +6,8 @@
 	import FloatingBar from '$lib/components/ui/FloatingBar.svelte';
 	import BottomBar from '$lib/components/ui/BottomBar.svelte';
 
-	import { page } from '$lib/store';
+	import { page as pageStore } from '$lib/store';
+	import { page } from '$app/stores';
 
 	let isMobile = false;
 	onMount(() => {
@@ -15,8 +16,27 @@
 
 	let { children } = $props();
 
+	function getPageName(pathname: string): string {
+		switch (pathname) {
+			case '/':
+				return 'Home';
+			case '/about':
+				return 'About';
+			case '/contact':
+				return 'Contact';
+			default:
+				return 'Unknown';
+		}
+	}
+
 	$effect(() => {
-		console.log($page.url.pathname);
+		pageStore.set({
+			name: getPageName($page.url.pathname),
+			path: $page.url.pathname,
+			url: {
+				pathname: $page.url.pathname
+			}
+		});
 	});
 </script>
 

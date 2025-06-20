@@ -2,6 +2,7 @@
     import { Button } from "m3-svelte";
     import "iconify-icon";
 	import { goto } from "$app/navigation";
+    import { page } from "$lib/store";
 </script>
 
 <div class="flex justify-center items-center">
@@ -19,7 +20,7 @@
                     </defs>
                 </svg>
             </Button>
-            <h1 class="text-on-secondary roboto-flex-home-text">/ home</h1>
+            <h1 class="text-on-secondary roboto-flex-home-text">/ {$page.name}</h1>
         </div>
         <div class="flex justify-center items-center gap-2">
             <Button variant="text" iconType="none" class="p-0" onclick={() => {location.href = 'https://github.com/Cattn/Maple'}}>
