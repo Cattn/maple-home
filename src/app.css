@@ -1,7 +1,13 @@
 @import url("m3-svelte/misc/styles.css");
 @import url("m3-svelte/misc/recommended-styles.css");
 /*  */
-  
+
+iconify-icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+}
+
 body {
   margin: 0;
   padding: 0;

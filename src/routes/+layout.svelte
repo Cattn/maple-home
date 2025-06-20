@@ -4,6 +4,7 @@
 
 	import { onMount } from 'svelte';
 	import FloatingBar from '$lib/components/ui/FloatingBar.svelte';
+	import BottomBar from '$lib/components/ui/BottomBar.svelte';
 
 	let isMobile = false;
 	onMount(() => {
@@ -15,3 +16,4 @@
 
 <FloatingBar />
 {@render children()}
+<BottomBar />

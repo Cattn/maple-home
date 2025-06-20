@@ -18,6 +18,7 @@
 		"@eslint/js": "^9.18.0",
 		"@iconify/svelte": "^5.0.0",
 		"@sveltejs/adapter-auto": "^6.0.0",
+		"@sveltejs/adapter-cloudflare": "^7.0.4",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"@tailwindcss/vite": "^4.0.0",
@@ -38,6 +39,7 @@
 	"dependencies": {
 		"@ktibow/iconset-material-symbols": "^0.0.1750223537",
 		"@material-design-icons/svg": "^0.14.15",
+		"iconify-icon": "^3.0.0",
 		"m3-svelte": "^4.3.2",
 		"material-icons": "^1.13.14"
 	}
