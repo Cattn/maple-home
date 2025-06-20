@@ -8,7 +8,7 @@ const config = {
 	kit: { adapter: adapter({
 		fallback: 'plaintext',
 		routes: {
-			include: ['*'],
+			include: ['/*'],
 			exclude: ['<all>']
 		}
 	})
