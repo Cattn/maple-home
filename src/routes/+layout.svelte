@@ -6,12 +6,18 @@
 	import FloatingBar from '$lib/components/ui/FloatingBar.svelte';
 	import BottomBar from '$lib/components/ui/BottomBar.svelte';
 
+	import { page } from '$lib/store';
+
 	let isMobile = false;
 	onMount(() => {
 		isMobile = window.innerWidth <= 768;
 	});
 
 	let { children } = $props();
+
+	$effect(() => {
+		console.log($page.url.pathname);
+	});
 </script>
 
 <FloatingBar />
