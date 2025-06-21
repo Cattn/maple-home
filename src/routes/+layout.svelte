@@ -41,5 +41,7 @@
 </script>
 
 <FloatingBar />
-{@render children()}
+<div class="pt-16 md:pt-20 pb-12 md:pb-16">
+    {@render children()}
+</div>
 <BottomBar />
