@@ -7,7 +7,7 @@
 	import BottomBar from '$lib/components/ui/BottomBar.svelte';
 
 	import { page as pageStore } from '$lib/store';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 
 	let isMobile = false;
 	onMount(() => {
@@ -31,10 +31,10 @@
 
 	$effect(() => {
 		pageStore.set({
-			name: getPageName($page.url.pathname),
-			path: $page.url.pathname,
+			name: getPageName(page.url.pathname),
+			path: page.url.pathname,
 			url: {
-				pathname: $page.url.pathname
+				pathname: page.url.pathname
 			}
 		});
 	});
