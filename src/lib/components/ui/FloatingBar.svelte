@@ -32,7 +32,7 @@
             
             {#if mobileMenuOpen}
                 <div class="absolute right-0 top-full mt-2 bg-surface-container rounded-xl shadow-lg border border-outline-variant p-1 min-w-48 z-50">
-                    <Button variant="text" iconType="none" class="w-full justify-start p-3" onclick={() => {location.href = 'https://github.com/Cattn/Maple'; mobileMenuOpen = false}}>
+                    <Button variant="text" iconType="none" class="w-full justify-start p-3" onclick={() => {goto("/apple"); mobileMenuOpen = false}}>
                         <span class="text-on-surface roboto-flex-home-link text-sm">download</span>
                     </Button>
                     <Button variant="text" iconType="none" class="w-full justify-start p-3" onclick={() => {goto("/about"); mobileMenuOpen = false}}>
@@ -70,7 +70,7 @@
             </Button>
         </div>
         <div class="flex justify-center items-center gap-2 button-padding">
-            <Button variant="text" iconType="none" onclick={() => {location.href = 'https://github.com/Cattn/Maple'}}>
+            <Button variant="text" iconType="none" onclick={() => {goto("/apple")}}>
                 <h1 class="text-on-secondary roboto-flex-home-link">download</h1>
             </Button>
             <Button variant="text" iconType="none" onclick={() => {goto("/about")}}>

@@ -26,7 +26,31 @@
     </div>
 </div>
 
-<div class="flex justify-center">
+<div class="flex justify-center mt-8 md:mt-0">
+    <div class="flex flex-col items-center">
+        <p class="available-on-text text-on-surface-variant ">Available On</p>
+        <div class="flex space-x-8 platform-icons">
+            <a href="https://play.maple.music/">
+                <div class="flex flex-col items-center platform-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" {...$$props}>
+                        <path fill="currentColor" d="M12 22q-2.075 0-3.9-.788t-3.175-2.137T2.788 15.9T2 12t.788-3.9t2.137-3.175T8.1 2.788T12 2t3.9.788t3.175 2.137T21.213 8.1T22 12t-.788 3.9t-2.137 3.175t-3.175 2.138T12 22m0-2q3.35 0 5.675-2.325T20 12q0-.175-.012-.363t-.013-.312q-.125.725-.675 1.2T18 13h-2q-.825 0-1.412-.587T14 11v-1h-4V8q0-.825.588-1.412T12 6h1q0-.575.313-1.012t.762-.713q-.5-.125-1.012-.2T12 4Q8.65 4 6.325 6.325T4 12h5q1.65 0 2.825 1.175T13 16v1h-3v2.75q.5.125.988.188T12 20" />
+                    </svg>
+                    <span class="platform-label">Web</span>
+                </div>
+            </a>
+            <a href="/apple">
+                <div class="flex flex-col items-center platform-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" {...$$props}>
+                        <path fill="currentColor" d="M27 2H5C3.344 2 2 3.344 2 5v22c0 1.656 1.344 3 3 3h22c1.656 0 3-1.344 3-3V5c0-1.656-1.344-3-3-3M9.938 24.031a1.248 1.248 0 1 1-2.162-1.25l.894-1.544q1.509-.46 2.475.712zm8.681-3.368H7.25c-.688 0-1.25-.563-1.25-1.25s.563-1.25 1.25-1.25h3.188l4.087-7.075l-1.281-2.212A1.25 1.25 0 0 1 13.7 7.17a1.25 1.25 0 0 1 1.706.456l.556.962l.556-.962a1.248 1.248 0 1 1 2.162 1.25l-5.362 9.288h3.881c1.262 0 1.969 1.481 1.419 2.5zm6.131 0h-1.813l1.225 2.119c.344.6.137 1.363-.456 1.706c-.6.344-1.363.137-1.706-.456c-2.056-3.556-3.594-6.231-4.625-8.006c-1.044-1.813-.3-3.625.444-4.237q1.227 2.129 3.681 6.375h3.25a1.25 1.25 0 1 1 0 2.5z" />
+                    </svg>
+                    <span class="platform-label">iOS</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="flex justify-center mt-4">
     <div class="large-button md:large-button-desktop flex space-x-1">
         <Button variant="filled" iconType="left" onclick={() => {goto("/about")}}>
             <iconify-icon icon="material-symbols:help"></iconify-icon>
@@ -93,6 +117,53 @@
 
     .maple-logo {
         color: var(--color-primary-container);
+    }
+
+    .available-on-text {
+        font-family: "Roboto Flex", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        opacity: 0.8;
+    }
+
+    .platform-icons {
+        opacity: 0.9;
+    }
+
+    .platform-item {
+        transition: opacity 0.2s ease;
+    }
+
+    .platform-item:hover {
+        opacity: 0.7;
+    }
+
+    .platform-icon {
+        font-size: 32px;
+        color: var(--color-on-surface);
+        margin-bottom: 4px;
+    }
+
+    .platform-label {
+        font-family: "Roboto Flex", sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--color-on-surface-variant);
+        opacity: 0.8;
+    }
+
+    @media (max-width: 767px) {
+        .platform-icon {
+            font-size: 28px;
+        }
+        
+        .platform-label {
+            font-size: 11px;
+        }
+        
+        .available-on-text {
+            font-size: 14px;
+        }
     }
 
     .large-button {
