@@ -18,6 +18,11 @@
         </h1>
     </div>
 </div>
+<div class="flex justify-center mt-4 space-x-1 mx-2 md:mx-32">
+    <h3 class="text-wrap text-center text-secondary text-base md:text-sm">
+        Curious about how we handle your data? Check out our <a href="/privacy" class="text-secondary text-base md:text-sm underline">Privacy Policy</a>
+    </h3>
+</div>
 
 <style>
     .roboto-flex-home-maple {

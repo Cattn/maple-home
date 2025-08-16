@@ -9,13 +9,11 @@
         [data-custom-class='title'] * {
             font-family: Arial !important;
             font-size: 26px !important;
-            color: #000000 !important;
         }
 
         [data-custom-class='subtitle'],
         [data-custom-class='subtitle'] * {
             font-family: Arial !important;
-            color: #595959 !important;
             font-size: 14px !important;
         }
 
@@ -23,29 +21,27 @@
         [data-custom-class='heading_1'] * {
             font-family: Arial !important;
             font-size: 19px !important;
-            color: #000000 !important;
         }
 
         [data-custom-class='heading_2'],
         [data-custom-class='heading_2'] * {
             font-family: Arial !important;
             font-size: 17px !important;
-            color: #000000 !important;
         }
 
         [data-custom-class='body_text'],
         [data-custom-class='body_text'] * {
-            color: #595959 !important;
             font-size: 14px !important;
             font-family: Arial !important;
         }
 
         [data-custom-class='link'],
         [data-custom-class='link'] * {
-            color: #3030F1 !important;
             font-size: 14px !important;
             font-family: Arial !important;
             word-break: break-word !important;
+            color: var(--color-primary) !important;
+            text-decoration: underline !important;
         }
     </style>
 
@@ -57,14 +53,14 @@
                         </bdt>
                         <bdt class="statement-end-if-in-editor"></bdt>
                     </span></span></strong></div>
-        <div><span style="color: rgb(127, 127, 127);"><strong><span style="font-size: 15px;"><span
+        <div><span><strong><span style="font-size: 15px;"><span
                             data-custom-class="subtitle">Last updated <bdt class="question">August 15, 2025</bdt>
                             </span></span></strong></span></div>
         <div><br></div>
         <div><br></div>
         <div><br></div>
-        <div style="line-height: 1.5;"><span style="color: rgb(127, 127, 127);"><span
-                    style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">This Privacy
+        <div style="line-height: 1.5;"><span style=""><span
+                    style="font-size: 15px;"><span data-custom-class="body_text">This Privacy
                         Notice for <bdt class="question noTranslate">Maple</bdt>
                         <bdt class="block-component"></bdt> (<bdt class="block-component"></bdt>"<strong>we</strong>,"
                         "<strong>us</strong>," or "<strong>our</strong>"<bdt class="statement-end-if-in-editor"></bdt>
@@ -73,49 +69,49 @@
                             class="statement-end-if-in-editor"></bdt>) your personal information when you use our
                         services (<bdt class="block-component"></bdt>"<strong>Services</strong>"<bdt
                             class="statement-end-if-in-editor"></bdt>), including when you:</span></span></span><span
-                style="font-size: 15px;"><span style="color: rgb(127, 127, 127);"><span
-                        data-custom-class="body_text"><span style="color: rgb(89, 89, 89);"><span
+                style="font-size: 15px;"><span style=""><span
+                        data-custom-class="body_text"><span style=""><span
                                 data-custom-class="body_text">
                                 <bdt class="block-component"></bdt>
                             </span></span></span></span></span></div>
         <ul>
             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Visit our
-                            website<bdt class="block-component"></bdt> at <span style="color: rgb(0, 58, 250);">
+                    style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text">Visit our
+                            website<bdt class="block-component"></bdt> at <span style="">
                                 <bdt class="question noTranslate">https://maple.music/</bdt>
-                            </span><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span
+                            </span><span style="font-size: 15px;"><span style=""><span
                                         data-custom-class="body_text"><span style="font-size: 15px;"><span
-                                                style="color: rgb(89, 89, 89);">
+                                                style="">
                                                 <bdt class="statement-end-if-in-editor"> or any website of ours that
                                                     links to this Privacy Notice</bdt>
                                             </span></span></span></span></span></span></span></span></li>
         </ul>
         <div>
             <bdt class="block-component"><span style="font-size: 15px;"><span style="font-size: 15px;"><span
-                            style="color: rgb(127, 127, 127);"><span data-custom-class="body_text"><span
-                                    style="color: rgb(89, 89, 89);"><span data-custom-class="body_text">
+                            style=""><span data-custom-class="body_text"><span
+                                    style=""><span data-custom-class="body_text">
                                         <bdt class="block-component"></bdt>
                                     </span></span></span></span></span></span></bdt>
         </div>
         <ul>
             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Download
+                    style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text">Download
                             and use<bdt class="block-component"></bdt> our mobile application<bdt
                                 class="block-component"></bdt> (<bdt class="question">Maple)<span
-                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                    style="font-size: 15px; "><span
+                                        style="font-size: 15px; "><span
                                             data-custom-class="body_text"><span style="font-size: 15px;"><span
-                                                    style="color: rgb(89, 89, 89);"><span
+                                                    style=""><span
                                                         data-custom-class="body_text"><span
                                                             style="font-size: 15px;"><span
-                                                                style="color: rgb(89, 89, 89);">
+                                                                style="">
                                                                 <bdt class="statement-end-if-in-editor">,</bdt>
                                                             </span></span></span></span></span></span></span></span>
                             </bdt></span><span data-custom-class="body_text"><span style="font-size: 15px;"><span
-                                    style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
-                                            style="font-size: 15px;"><span style="color: rgb(89, 89, 89);">
+                                    style=""><span data-custom-class="body_text"><span
+                                            style="font-size: 15px;"><span style="">
                                                 <bdt class="statement-end-if-in-editor">
                                                     <bdt class="block-component"> or any other application of ours that
                                                         links to this Privacy Notice</bdt>
@@ -133,23 +129,23 @@
                 <bdt class="statement-end-if-in-editor"><span style="font-size: 15px;"></span></bdt>
             </li>
         </ul>
-        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style="color: rgb(127, 127, 127);"><span
-                        data-custom-class="body_text"><span style="color: rgb(89, 89, 89);"><span
+        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style=""><span
+                        data-custom-class="body_text"><span style=""><span
                                 data-custom-class="body_text">
                                 <bdt class="block-component"></bdt>
                             </span></span></span></span></span></div>
         <ul>
             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Engage with
+                    style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text">Engage with
                             us in other related ways, including any sales, marketing, or events<span
-                                style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span
+                                style="font-size: 15px;"><span style=""><span
                                         data-custom-class="body_text"><span style="font-size: 15px;"><span
-                                                style="color: rgb(89, 89, 89);">
+                                                style="">
                                                 <bdt class="statement-end-if-in-editor"></bdt>
                                             </span></span></span></span></span></span></span></span></li>
         </ul>
-        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style="color: rgb(127, 127, 127);"><span
+        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style=""><span
                         data-custom-class="body_text"><strong>Questions or concerns?&nbsp;</strong>Reading this Privacy
                         Notice will help you understand your privacy rights and choices. We are responsible for making
                         decisions about how your personal information is processed. If you do not agree with our
@@ -165,7 +161,7 @@
                     data-custom-class="body_text"><strong><em>This summary provides key points from our Privacy Notice,
                             but you can find out more details about any of these topics by clicking the link following
                             each key point or by using our&nbsp;</em></strong></span></span><a data-custom-class="link"
-                href="#toc"><span style="color: rgb(0, 58, 250); font-size: 15px;"><span
+                href="#toc"><span style="font-size: 15px;"><span
                         data-custom-class="body_text"><strong><em>table of contents</em></strong></span></span></a><span
                 style="font-size: 15px;"><span data-custom-class="body_text"><strong><em>&nbsp;below to find the section
                             you are looking for.</em></strong></span></span></div>
@@ -175,7 +171,7 @@
                     may process personal information depending on how you interact with us and the Services, the choices
                     you make, and the products and features you use. Learn more about&nbsp;</span></span><a
                 data-custom-class="link" href="#personalinfo"><span
-                    style="color: rgb(0, 58, 250); font-size: 15px;"><span data-custom-class="body_text">personal
+                    style="font-size: 15px;"><span data-custom-class="body_text">personal
                         information you disclose to us</span></span></a><span data-custom-class="body_text">.</span>
         </div>
         <div style="line-height: 1.5;"><br></div>
@@ -197,7 +193,7 @@
                     administer our Services, communicate with you, for security and fraud prevention, and to comply with
                     law. We may also process your information for other purposes with your consent. We process your
                     information only when we have a valid legal reason to do so. Learn more about&nbsp;</span></span><a
-                data-custom-class="link" href="#infouse"><span style="color: rgb(0, 58, 250); font-size: 15px;"><span
+                data-custom-class="link" href="#infouse"><span style="font-size: 15px;"><span
                         data-custom-class="body_text">how we process your information</span></span></a><span
                 data-custom-class="body_text">.</span></div>
         <div style="line-height: 1.5;"><br></div>
@@ -205,7 +201,7 @@
                         what situations and with which <bdt class="block-component"></bdt>parties do we share personal
                         information?</strong> We may share information in specific situations and with specific <bdt
                         class="block-component"></bdt>third parties. Learn more about&nbsp;</span></span><a
-                data-custom-class="link" href="#whoshare"><span style="color: rgb(0, 58, 250); font-size: 15px;"><span
+                data-custom-class="link" href="#whoshare"><span style="font-size: 15px;"><span
                         data-custom-class="body_text">when and with whom we share your personal
                         information</span></span></a><span style="font-size: 15px;"><span
                     data-custom-class="body_text">.<bdt class="block-component"></bdt></span></span></div>
@@ -219,7 +215,7 @@
                         class="statement-end-if-in-editor"></bdt> third parties will not be able to defeat our security
                     and improperly collect, access, steal, or modify your information. Learn more
                     about&nbsp;</span></span><a data-custom-class="link" href="#infosafe"><span
-                    style="color: rgb(0, 58, 250); font-size: 15px;"><span data-custom-class="body_text">how we keep
+                    style="font-size: 15px;"><span data-custom-class="body_text">how we keep
                         your information safe</span></span></a><span data-custom-class="body_text">.</span><span
                 style="font-size: 15px;"><span data-custom-class="body_text">
                     <bdt class="statement-end-if-in-editor"></bdt>
@@ -229,12 +225,12 @@
                         are your rights?</strong> Depending on where you are located geographically, the applicable
                     privacy law may mean you have certain rights regarding your personal information. Learn more
                     about&nbsp;</span></span><a data-custom-class="link" href="#privacyrights"><span
-                    style="color: rgb(0, 58, 250); font-size: 15px;"><span data-custom-class="body_text">your privacy
+                    style="font-size: 15px;"><span data-custom-class="body_text">your privacy
                         rights</span></span></a><span data-custom-class="body_text">.</span></div>
         <div style="line-height: 1.5;"><br></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><span data-custom-class="body_text"><strong>How do
                         you exercise your rights?</strong> The easiest way to exercise your rights is by <bdt
-                        class="block-component"></bdt>visiting <span style="color: rgb(0, 58, 250);">
+                        class="block-component"></bdt>visiting <span style="">
                         <bdt class="question">data-removal@maple.music</bdt>
                     </span>
                     <bdt class="else-block"></bdt>, or by contacting us. We will consider and act upon any request in
@@ -243,75 +239,75 @@
         <div style="line-height: 1.5;"><br></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><span data-custom-class="body_text">Want to learn
                     more about what we do with any information we collect?&nbsp;</span></span><a
-                data-custom-class="link" href="#toc"><span style="color: rgb(0, 58, 250); font-size: 15px;"><span
+                data-custom-class="link" href="#toc"><span style="font-size: 15px;"><span
                         data-custom-class="body_text">Review the Privacy Notice in full</span></span></a><span
                 style="font-size: 15px;"><span data-custom-class="body_text">.</span></span></div>
         <div style="line-height: 1.5;"><br></div>
         <div style="line-height: 1.5;"><br></div>
         <div id="toc" style="line-height: 1.5;"><span style="font-size: 15px;"><span
-                    style="color: rgb(127, 127, 127);"><span style="color: rgb(0, 0, 0);"><strong><span
+                    style=""><span style=""><strong><span
                                 data-custom-class="heading_1">
                                 <h2>TABLE OF CONTENTS</h2>
                             </span></strong>&nbsp;</span>&nbsp;</span>&nbsp;</span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link"
-                    href="#infocollect"><span style="color: rgb(0, 58, 250);">1. WHAT INFORMATION DO WE
+                    href="#infocollect"><span style="">1. WHAT INFORMATION DO WE
                         COLLECT?</span></a></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link" href="#infouse"><span
-                        style="color: rgb(0, 58, 250);">2. HOW DO WE PROCESS YOUR INFORMATION?<bdt
+                        style="">2. HOW DO WE PROCESS YOUR INFORMATION?<bdt
                             class="block-component"></bdt></span></a></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link"
-                    href="#legalbases"><span style="color: rgb(0, 58, 250);">3. <span style="font-size: 15px;"><span
-                                style="color: rgb(0, 58, 250);">WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL
+                    href="#legalbases"><span style="">3. <span style="font-size: 15px;"><span
+                                style="">WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL
                                 INFORMATION?</span></span>
                         <bdt class="statement-end-if-in-editor"></bdt>
                     </span></a></span></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style="color: rgb(0, 58, 250);"><a
+        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style=""><a
                         data-custom-class="link" href="#whoshare">4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL
                         INFORMATION?</a></span><span data-custom-class="body_text">
-                    <bdt class="block-component"></bdt><span style="color: rgb(127, 127, 127);"><span
-                            style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
-                                    style="color: rgb(89, 89, 89);">
+                    <bdt class="block-component"></bdt><span style=""><span
+                            style=""><span data-custom-class="body_text"><span
+                                    style="">
                                     <bdt class="block-component"></bdt>
                                 </span></span></span></span>
                     <bdt class="block-component"></bdt>
                 </span></span></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style="color: rgb(127, 127, 127);"><span
-                        style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
-                                style="color: rgb(89, 89, 89);"><span style="color: rgb(89, 89, 89);"><span
-                                        style="color: rgb(89, 89, 89);">
+        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style=""><span
+                        style=""><span data-custom-class="body_text"><span
+                                style=""><span style=""><span
+                                        style="">
                                         <bdt class="block-component"></bdt>
                                     </span></span>
                                 <bdt class="block-component"></bdt>
                             </span></span></span></span></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link"
-                    href="#inforetain"><span style="color: rgb(0, 58, 250);">5. HOW LONG DO WE KEEP YOUR
-                        INFORMATION?</span></a><span style="color: rgb(127, 127, 127);"><span
-                        style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
-                                style="color: rgb(89, 89, 89);"><span style="color: rgb(89, 89, 89);">
+                    href="#inforetain"><span style="">5. HOW LONG DO WE KEEP YOUR
+                        INFORMATION?</span></a><span style=""><span
+                        style=""><span data-custom-class="body_text"><span
+                                style=""><span style="">
                                     <bdt class="block-component"></bdt>
                                 </span></span></span></span></span></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link" href="#infosafe"><span
-                        style="color: rgb(0, 58, 250);">6. HOW DO WE KEEP YOUR INFORMATION SAFE?</span></a><span
-                    style="color: rgb(127, 127, 127);"><span style="color: rgb(89, 89, 89);"><span
-                            data-custom-class="body_text"><span style="color: rgb(89, 89, 89);">
+                        style="">6. HOW DO WE KEEP YOUR INFORMATION SAFE?</span></a><span
+                    style=""><span style=""><span
+                            data-custom-class="body_text"><span style="">
                                 <bdt class="statement-end-if-in-editor"></bdt>
                                 <bdt class="block-component"></bdt>
                             </span></span></span></span></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link"
-                    href="#infominors"><span style="color: rgb(0, 58, 250);">7. DO WE COLLECT INFORMATION FROM
-                        MINORS?</span></a><span style="color: rgb(127, 127, 127);"><span
-                        style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
-                                style="color: rgb(89, 89, 89);">
+                    href="#infominors"><span style="">7. DO WE COLLECT INFORMATION FROM
+                        MINORS?</span></a><span style=""><span
+                        style=""><span data-custom-class="body_text"><span
+                                style="">
                                 <bdt class="statement-end-if-in-editor"></bdt>
                             </span></span></span></span></span></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style="color: rgb(0, 58, 250);"><a
+        <div style="line-height: 1.5;"><span style="font-size: 15px;"><span style=""><a
                         data-custom-class="link" href="#privacyrights">8. WHAT ARE YOUR PRIVACY
                         RIGHTS?</a></span></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link" href="#DNT"><span
-                        style="color: rgb(0, 58, 250);">9. CONTROLS FOR DO-NOT-TRACK FEATURES<bdt
+                        style="">9. CONTROLS FOR DO-NOT-TRACK FEATURES<bdt
                             class="block-component"></bdt></span></a></span></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link" href="#uslaws"><span
-                        style="color: rgb(0, 58, 250);">10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY
+                        style="">10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY
                         RIGHTS?</span></a></span>
             <bdt class="block-component"><span style="font-size: 15px;"><span
                         data-custom-class="body_text"></span></span></bdt>
@@ -329,40 +325,40 @@
             <bdt class="block-component"></bdt>
         </div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><a data-custom-class="link"
-                    href="#policyupdates"><span style="color: rgb(0, 58, 250);">11. DO WE MAKE UPDATES TO THIS
+                    href="#policyupdates"><span style="">11. DO WE MAKE UPDATES TO THIS
                         NOTICE?</span></a></span></div>
         <div style="line-height: 1.5;"><a data-custom-class="link" href="#contact"><span
-                    style="color: rgb(0, 58, 250); font-size: 15px;">12. HOW CAN YOU CONTACT US ABOUT THIS
+                    style="font-size: 15px;">12. HOW CAN YOU CONTACT US ABOUT THIS
                     NOTICE?</span></a></div>
         <div style="line-height: 1.5;"><a data-custom-class="link" href="#request"><span
-                    style="color: rgb(0, 58, 250);">13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM
+                    style="">13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM
                     YOU?</span></a></div>
         <div style="line-height: 1.5;"><br></div>
         <div style="line-height: 1.5;"><br></div>
-        <div id="infocollect" style="line-height: 1.5;"><span style="color: rgb(0, 0, 0);"><span
-                    style="color: rgb(0, 0, 0); font-size: 15px;"><span
-                        style="font-size: 15px; color: rgb(0, 0, 0);"><span
-                            style="font-size: 15px; color: rgb(0, 0, 0);"><span id="control"
-                                style="color: rgb(0, 0, 0);"><strong><span data-custom-class="heading_1">
+        <div id="infocollect" style="line-height: 1.5;"><span style=""><span
+                    style="font-size: 15px;"><span
+                        style="font-size: 15px; "><span
+                            style="font-size: 15px; "><span id="control"
+                                style=""><strong><span data-custom-class="heading_1">
                                         <h2>1. WHAT INFORMATION DO WE COLLECT?</h2>
                                     </span></strong></span></span></span></span></span><span
-                data-custom-class="heading_2" id="personalinfo" style="color: rgb(0, 0, 0);"><span
+                data-custom-class="heading_2" id="personalinfo" style=""><span
                     style="font-size: 15px;"><strong>
                         <h3>Personal information you disclose to us</h3>
-                    </strong></span></span><span style="color: rgb(127, 127, 127);"><span
-                    style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text"><span
-                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                    </strong></span></span><span style=""><span
+                    style="font-size: 15px;"><span data-custom-class="body_text"><span
+                            style="font-size: 15px; "><span
+                                style="font-size: 15px; "><span
                                     data-custom-class="body_text"><strong><em>In
                                             Short:</em></strong></span></span></span></span><span
-                        data-custom-class="body_text"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                        data-custom-class="body_text"><span style="font-size: 15px; "><span
+                                style="font-size: 15px; "><span
                                     data-custom-class="body_text"><strong><em>&nbsp;</em></strong><em>We collect
                                         personal information that you provide to
                                         us.</em></span></span></span></span></span></span></div>
         <div style="line-height: 1.5;"><br></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">We collect
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text">We collect
                         personal information that you voluntarily provide to us when you <span style="font-size: 15px;">
                             <bdt class="block-component"></bdt>
                         </span>register on the Services,&nbsp;</span><span style="font-size: 15px;"><span
@@ -372,13 +368,13 @@
                             information about us or our products and Services, when you participate in activities on the
                             Services, or otherwise when you contact us.</span></span></span></span></div>
         <div style="line-height: 1.5;"><br></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text"><span
                             style="font-size: 15px;">
                             <bdt class="block-component"></bdt>
                         </span></span></span></span></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span
                         data-custom-class="body_text"><strong>Personal Information Provided by You.</strong> The
                         personal information that we collect depends on the context of your interactions with us and the
                         Services, the choices you make, and the products and features you use. The personal information
@@ -388,27 +384,27 @@
                             </span></span></span></span></span></div>
         <ul>
             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
+                    style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text"><span
                                 style="font-size: 15px;"><span data-custom-class="body_text">
                                     <bdt class="question">usernames</bdt>
                                 </span></span></span></span></span></li>
         </ul>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text"><span
                             style="font-size: 15px;"><span data-custom-class="body_text">
                                 <bdt class="forloop-component"></bdt>
                             </span></span></span></span></span></div>
         <ul>
             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
+                    style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text"><span
                                 style="font-size: 15px;"><span data-custom-class="body_text">
                                     <bdt class="question">passwords</bdt>
                                 </span></span></span></span></span></li>
         </ul>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text"><span
                             style="font-size: 15px;"><span data-custom-class="body_text">
                                 <bdt class="forloop-component"></bdt>
                             </span><span data-custom-class="body_text">
@@ -421,8 +417,8 @@
         <div style="line-height: 1.5;"><br></div>
         <div style="line-height: 1.5;"><span style="font-size: 15px;"><span data-custom-class="body_text">
                     <bdt class="else-block"></bdt>
-                </span></span><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
+                </span></span><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text"><span
                             style="font-size: 15px;"><span data-custom-class="body_text">
                                 <bdt class="block-component">
                                     <bdt class="block-component"></bdt>
@@ -432,19 +428,19 @@
                     <bdt class="block-component"></bdt>
                 </bdt>
             </span></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">All personal
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text">All personal
                         information that you provide to us must be true, complete, and accurate, and you must notify us
                         of any changes to such personal information.</span></span></span></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text">
                         <bdt class="block-component"></bdt>
                     </span></span></span>
             <bdt class="block-component"><span style="font-size: 15px;"></span></bdt><span
-                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span
-                            style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text"><span
-                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text"><span
+                            style="font-size: 15px;"><span data-custom-class="body_text"><span
+                                    style="font-size: 15px;"><span
                                         data-custom-class="body_text">
                                         <bdt class="statement-end-if-in-editor">
                                             <bdt class="block-component"></bdt>
@@ -455,15 +451,15 @@
                 </span></span>
         </div>
         <div style="line-height: 1.5;"><br></div>
-        <div id="infouse" style="line-height: 1.5;"><span style="color: rgb(127, 127, 127);"><span
-                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                            style="font-size: 15px; color: rgb(89, 89, 89);"><span id="control"
-                                style="color: rgb(0, 0, 0);"><strong><span data-custom-class="heading_1">
+        <div id="infouse" style="line-height: 1.5;"><span style=""><span
+                    style="font-size: 15px;"><span
+                        style="font-size: 15px; "><span
+                            style="font-size: 15px; "><span id="control"
+                                style=""><strong><span data-custom-class="heading_1">
                                         <h2>2. HOW DO WE PROCESS YOUR INFORMATION?</h2>
                                     </span></strong></span></span></span><span data-custom-class="body_text"><span
-                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                            style="font-size: 15px; "><span
+                                style="font-size: 15px; "><span
                                     data-custom-class="body_text"><strong><em>In Short:&nbsp;</em></strong><em>We
                                         process your information to provide, improve, and administer our Services,
                                         communicate with you, for security and fraud prevention, and to comply with law.
@@ -474,44 +470,44 @@
                                             class="else-block"></bdt>
                                         consent.</em></span></span></span></span></span></span></div>
         <div style="line-height: 1.5;"><br></div>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><strong>We
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text"><strong>We
                             process your personal information for a variety of reasons, depending on how you interact
                             with our Services, including:</strong>
                         <bdt class="block-component"></bdt>
                     </span></span></span></div>
         <ul>
             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><strong>To
+                    style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text"><strong>To
                                 facilitate account creation and authentication and otherwise manage user
                                 accounts.&nbsp;</strong>We may process your information so you can create and log in to
                             your account, as well as keep your account in working order.<span
-                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                style="font-size: 15px; "><span
+                                    style="font-size: 15px; "><span
                                         data-custom-class="body_text"><span style="font-size: 15px;"><span
-                                                style="color: rgb(89, 89, 89);"><span
+                                                style=""><span
                                                     data-custom-class="body_text"><span style="font-size: 15px;"><span
-                                                            style="color: rgb(89, 89, 89);"><span
+                                                            style=""><span
                                                                 data-custom-class="body_text">
                                                                 <bdt class="statement-end-if-in-editor"></bdt>
                                                             </span></span></span></span></span></span></span></span></span></span></span></span>
             </li>
         </ul>
-        <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                    style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">
+        <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                    style="font-size: 15px; "><span data-custom-class="body_text">
                         <bdt class="block-component"></bdt>
                     </span></span></span>
-            <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                        style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">
+            <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                        style="font-size: 15px; "><span data-custom-class="body_text">
                             <bdt class="block-component"></bdt>
                         </span></span></span>
-                <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                            style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">
+                <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                            style="font-size: 15px; "><span data-custom-class="body_text">
                                 <bdt class="block-component"></bdt>
                             </span></span></span>
-                    <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">
+                    <div style="line-height: 1.5;"><span style="font-size: 15px; "><span
+                                style="font-size: 15px; "><span data-custom-class="body_text">
                                     <bdt class="block-component"></bdt>
                                 </span></span></span>
                         <div style="line-height: 1.5;">
@@ -531,18 +527,18 @@
                                         </p>
                                         <ul>
                                             <li data-custom-class="body_text" style="line-height: 1.5;"><span
-                                                    style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span
-                                                            style="color: rgb(89, 89, 89);"><span
+                                                    style="font-size: 15px;"><span style=""><span
+                                                            style=""><span
                                                                 data-custom-class="body_text"><strong>To enable
                                                                     user-to-user communications.&nbsp;</strong>We may
                                                                 process your information if you choose to use any of our
                                                                 offerings that allow for communication with another
-                                                                user.<span style="color: rgb(89, 89, 89);"><span
-                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                user.<span style=""><span
+                                                                        style=""><span
                                                                             data-custom-class="body_text"><span
-                                                                                style="color: rgb(89, 89, 89);"><span
+                                                                                style=""><span
                                                                                     data-custom-class="body_text"><span
-                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                        style=""><span
                                                                                             data-custom-class="body_text">
                                                                                             <bdt
                                                                                                 class="statement-end-if-in-editor">
@@ -910,7 +906,7 @@
                                                                                                                 about&nbsp;</span></span><a
                                                                                                             data-custom-class="link"
                                                                                                             href="#withdrawconsent"><span
-                                                                                                                style="color: rgb(0, 58, 250); font-size: 15px;"><span
+                                                                                                                style="font-size: 15px;"><span
                                                                                                                     data-custom-class="body_text">withdrawing
                                                                                                                     your
                                                                                                                     consent</span></span></a><span
@@ -1187,7 +1183,7 @@
                                                                                                         data-custom-class="link"
                                                                                                         href="#withdrawconsent"><span
                                                                                                             data-custom-class="body_text"><span
-                                                                                                                style="color: rgb(0, 58, 250); font-size: 15px;">withdraw
+                                                                                                                style="font-size: 15px;">withdraw
                                                                                                                 your
                                                                                                                 consent</span></span></a><span
                                                                                                         data-custom-class="body_text"><span
@@ -1669,12 +1665,12 @@
                                                                                                 <div id="whoshare"
                                                                                                     style="line-height: 1.5;">
                                                                                                     <span
-                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                        style=""><span
+                                                                                                            style="font-size: 15px;"><span
+                                                                                                                style="font-size: 15px; "><span
+                                                                                                                    style="font-size: 15px; "><span
                                                                                                                         id="control"
-                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                        style=""><strong><span
                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                 <h2>4.
                                                                                                                                     WHEN
@@ -1689,8 +1685,8 @@
                                                                                                                                     INFORMATION?
                                                                                                                                 </h2>
                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                        style="font-size: 15px; "><span
+                                                                                                            style="font-size: 15px; "><span
                                                                                                                 data-custom-class="body_text"><strong><em>In
                                                                                                                         Short:</em></strong><em>&nbsp;We
                                                                                                                     may
@@ -1716,8 +1712,8 @@
                                                                                                 <div
                                                                                                     style="line-height: 1.5;">
                                                                                                     <span
-                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                        style="font-size: 15px; "><span
+                                                                                                            style="font-size: 15px; "><span
                                                                                                                 data-custom-class="body_text">
                                                                                                                 <bdt
                                                                                                                     class="block-component">
@@ -1934,11 +1930,11 @@
                                                                                                                                 data-custom-class="body_text"></span></span>
                                                                                                                     </bdt>
                                                                                                                     <span
-                                                                                                                        style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                        style="font-size: 15px;"><span
                                                                                                                             style="font-size: 15px;"><span
-                                                                                                                                style="color: rgb(89, 89, 89);"><span
+                                                                                                                                style=""><span
                                                                                                                                     style="font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(89, 89, 89);">
+                                                                                                                                        style="">
                                                                                                                                         <bdt
                                                                                                                                             class="block-component">
                                                                                                                                             <span
@@ -1954,16 +1950,16 @@
                                                                                                                             class="block-component">
                                                                                                                         </bdt>
                                                                                                                     </span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                    style="font-size: 15px;"><span
+                                                                                                                                        style="font-size: 15px;"><span
+                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                 style="font-size: 15px;"><span
-                                                                                                                                                    style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                    style=""><span
                                                                                                                                                         style="font-size: 15px;"><span
-                                                                                                                                                            style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                            style=""><span
                                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                                 <bdt
                                                                                                                                                                     class="block-component">
@@ -1987,12 +1983,12 @@
                                                                                                                 <div id="inforetain"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style=""><span
+                                                                                                                            style="font-size: 15px;"><span
+                                                                                                                                style="font-size: 15px; "><span
+                                                                                                                                    style="font-size: 15px; "><span
                                                                                                                                         id="control"
-                                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                        style=""><strong><span
                                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                                 <h2>5.
                                                                                                                                                     HOW
@@ -2004,8 +2000,8 @@
                                                                                                                                                     INFORMATION?
                                                                                                                                                 </h2>
                                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><strong><em>In
                                                                                                                                         Short:&nbsp;</em></strong><em>We
                                                                                                                                     keep
@@ -2044,8 +2040,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">We
                                                                                                                                 will
                                                                                                                                 only
@@ -2108,7 +2104,7 @@
                                                                                                                                 than
                                                                                                                                 <span
                                                                                                                                     style="font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             data-custom-class="body_text">
                                                                                                                                             <bdt
                                                                                                                                                 class="block-component">
@@ -2134,7 +2130,7 @@
                                                                                                                                 </bdt>
                                                                                                                                 <span
                                                                                                                                     style="font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             data-custom-class="body_text">
                                                                                                                                             <bdt
                                                                                                                                                 class="else-block">
@@ -2149,8 +2145,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">When
                                                                                                                                 we
                                                                                                                                 have
@@ -2215,7 +2211,7 @@
                                                                                                                                 deletion
                                                                                                                                 is
                                                                                                                                 possible.<span
-                                                                                                                                    style="color: rgb(89, 89, 89);">
+                                                                                                                                    style="">
                                                                                                                                     <bdt
                                                                                                                                         class="block-component">
                                                                                                                                     </bdt>
@@ -2228,12 +2224,12 @@
                                                                                                                 <div id="infosafe"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style=""><span
+                                                                                                                            style="font-size: 15px;"><span
+                                                                                                                                style="font-size: 15px; "><span
+                                                                                                                                    style="font-size: 15px; "><span
                                                                                                                                         id="control"
-                                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                        style=""><strong><span
                                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                                 <h2>6.
                                                                                                                                                     HOW
@@ -2245,8 +2241,8 @@
                                                                                                                                                     SAFE?
                                                                                                                                                 </h2>
                                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><strong><em>In
                                                                                                                                         Short:&nbsp;</em></strong><em>We
                                                                                                                                     aim
@@ -2278,8 +2274,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">We
                                                                                                                                 have
                                                                                                                                 implemented
@@ -2407,12 +2403,12 @@
                                                                                                                                 a
                                                                                                                                 secure
                                                                                                                                 environment.<span
-                                                                                                                                    style="color: rgb(89, 89, 89);">
+                                                                                                                                    style="">
                                                                                                                                     <bdt
                                                                                                                                         class="statement-end-if-in-editor">
                                                                                                                                     </bdt>
                                                                                                                                 </span><span
-                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                         data-custom-class="body_text">
                                                                                                                                         <bdt
                                                                                                                                             class="block-component">
@@ -2426,12 +2422,12 @@
                                                                                                                 <div id="infominors"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style=""><span
+                                                                                                                            style="font-size: 15px;"><span
+                                                                                                                                style="font-size: 15px; "><span
+                                                                                                                                    style="font-size: 15px; "><span
                                                                                                                                         id="control"
-                                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                        style=""><strong><span
                                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                                 <h2>7.
                                                                                                                                                     DO
@@ -2442,8 +2438,8 @@
                                                                                                                                                     MINORS?
                                                                                                                                                 </h2>
                                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><strong><em>In
                                                                                                                                         Short:</em></strong><em>&nbsp;We
                                                                                                                                     do
@@ -2498,8 +2494,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">We
                                                                                                                                 do
                                                                                                                                 not
@@ -2684,7 +2680,7 @@
                                                                                                                                 us
                                                                                                                                 at
                                                                                                                                 <span
-                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                         data-custom-class="body_text">
                                                                                                                                         <bdt
                                                                                                                                             class="block-component">
@@ -2713,12 +2709,12 @@
                                                                                                                 <div id="privacyrights"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style=""><span
+                                                                                                                            style="font-size: 15px;"><span
+                                                                                                                                style="font-size: 15px; "><span
+                                                                                                                                    style="font-size: 15px; "><span
                                                                                                                                         id="control"
-                                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                        style=""><strong><span
                                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                                 <h2>8.
                                                                                                                                                     WHAT
@@ -2728,11 +2724,11 @@
                                                                                                                                                     RIGHTS?
                                                                                                                                                 </h2>
                                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><strong><em>In
                                                                                                                                         Short:</em></strong><em>&nbsp;<span
-                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             style="font-size: 15px;"><span
                                                                                                                                                 data-custom-class="body_text"><em>
                                                                                                                                                     <bdt
@@ -2793,7 +2789,7 @@
                                                                                                                                     your
                                                                                                                                     personal
                                                                                                                                     information.<span
-                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             style="font-size: 15px;"><span
                                                                                                                                                 data-custom-class="body_text"><em>
                                                                                                                                                     <bdt
@@ -2820,7 +2816,7 @@
                                                                                                                                     of
                                                                                                                                     residence.
                                                                                                                                 </em><span
-                                                                                                                                    style="color: rgb(89, 89, 89);"><span
+                                                                                                                                    style=""><span
                                                                                                                                         style="font-size: 15px;">
                                                                                                                                         <bdt
                                                                                                                                             class="block-component">
@@ -2834,8 +2830,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">In
                                                                                                                                 some
                                                                                                                                 regions
@@ -2994,8 +2990,8 @@
                                                                                                                                 </span></span></span><a
                                                                                                                         data-custom-class="link"
                                                                                                                         href="#contact"><span
-                                                                                                                            style="font-size: 15px; color: rgb(0, 58, 250);"><span
-                                                                                                                                style="font-size: 15px; color: rgb(0, 58, 250);"><span
+                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                     data-custom-class="body_text">HOW
                                                                                                                                     CAN
                                                                                                                                     YOU
@@ -3004,8 +3000,8 @@
                                                                                                                                     ABOUT
                                                                                                                                     THIS
                                                                                                                                     NOTICE?</span></span></span></a><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">
                                                                                                                                 <bdt
                                                                                                                                     class="block-component">
@@ -3024,8 +3020,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">We
                                                                                                                                 will
                                                                                                                                 consider
@@ -3049,13 +3045,13 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);">&nbsp;</span>
+                                                                                                                        style="font-size: 15px; ">&nbsp;</span>
                                                                                                                 </div>
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">If
                                                                                                                                 you
                                                                                                                                 are
@@ -3086,9 +3082,9 @@
                                                                                                                                 your
                                                                                                                                 <span
                                                                                                                                     style="font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(0, 58, 250);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             data-custom-class="body_text"><span
-                                                                                                                                                style="color: rgb(0, 58, 250);"><span
+                                                                                                                                                style=""><span
                                                                                                                                                     data-custom-class="body_text"><a
                                                                                                                                                         data-custom-class="link"
                                                                                                                                                         href="https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
@@ -3104,14 +3100,14 @@
                                                                                                                         href="https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/"
                                                                                                                         rel="noopener noreferrer"
                                                                                                                         target="_blank"><span
-                                                                                                                            style="font-size: 15px; color: rgb(0, 58, 250);"><span
-                                                                                                                                style="font-size: 15px; color: rgb(0, 58, 250);"><span
+                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                     data-custom-class="body_text">UK
                                                                                                                                     data
                                                                                                                                     protection
                                                                                                                                     authority</span></span></span></a><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">.</span></span></span>
                                                                                                                 </div>
                                                                                                                 <div
@@ -3121,8 +3117,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">If
                                                                                                                                 you
                                                                                                                                 are
@@ -3135,11 +3131,11 @@
                                                                                                                                 the
                                                                                                                                 <span
                                                                                                                                     style="font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(0, 58, 250);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             data-custom-class="body_text"><span
-                                                                                                                                                style="color: rgb(0, 58, 250);"><span
+                                                                                                                                                style=""><span
                                                                                                                                                     data-custom-class="body_text"><span
-                                                                                                                                                        style="color: rgb(0, 58, 250); font-size: 15px;"><a
+                                                                                                                                                        style="font-size: 15px;"><a
                                                                                                                                                             data-custom-class="link"
                                                                                                                                                             href="https://www.edoeb.admin.ch/edoeb/en/home.html"
                                                                                                                                                             rel="noopener noreferrer"
@@ -3157,8 +3153,8 @@
                                                                                                                 <div id="withdrawconsent"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><strong><u>Withdrawing
                                                                                                                                         your
                                                                                                                                         consent:</u></strong>
@@ -3233,8 +3229,8 @@
                                                                                                                                 </span></span></span><a
                                                                                                                         data-custom-class="link"
                                                                                                                         href="#contact"><span
-                                                                                                                            style="font-size: 15px; color: rgb(0, 58, 250);"><span
-                                                                                                                                style="font-size: 15px; color: rgb(0, 58, 250);"><span
+                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                     data-custom-class="body_text">HOW
                                                                                                                                     CAN
                                                                                                                                     YOU
@@ -3243,8 +3239,8 @@
                                                                                                                                     ABOUT
                                                                                                                                     THIS
                                                                                                                                     NOTICE?</span></span></span></a><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">
                                                                                                                                 <bdt
                                                                                                                                     class="block-component">
@@ -3447,16 +3443,16 @@
                                                                                                                                 data-custom-class="body_text"></span></span>
                                                                                                                     </bdt>
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><span
                                                                                                                                     style="font-size: 15px;"><span
-                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                        style=""><span
                                                                                                                                             style="font-size: 15px;"><span
-                                                                                                                                                style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                style=""><span
                                                                                                                                                     data-custom-class="body_text"><span
                                                                                                                                                         style="font-size: 15px;"><span
-                                                                                                                                                            style="color: rgb(89, 89, 89);">
+                                                                                                                                                            style="">
                                                                                                                                                             <bdt
                                                                                                                                                                 class="block-component">
                                                                                                                                                             </bdt>
@@ -3510,12 +3506,12 @@
                                                                                                                 <div id="DNT"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style=""><span
+                                                                                                                            style="font-size: 15px;"><span
+                                                                                                                                style="font-size: 15px; "><span
+                                                                                                                                    style="font-size: 15px; "><span
                                                                                                                                         id="control"
-                                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                        style=""><strong><span
                                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                                 <h2>9.
                                                                                                                                                     CONTROLS
@@ -3524,8 +3520,8 @@
                                                                                                                                                     FEATURES
                                                                                                                                                 </h2>
                                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">Most
                                                                                                                                 web
                                                                                                                                 browsers
@@ -3733,8 +3729,8 @@
                                                                                                                 <div
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">
                                                                                                                                 <bdt
                                                                                                                                     class="block-component">
@@ -3748,12 +3744,12 @@
                                                                                                                 <div id="uslaws"
                                                                                                                     style="line-height: 1.5;">
                                                                                                                     <span
-                                                                                                                        style="color: rgb(127, 127, 127);"><span
-                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style=""><span
+                                                                                                                            style="font-size: 15px;"><span
+                                                                                                                                style="font-size: 15px; "><span
+                                                                                                                                    style="font-size: 15px; "><span
                                                                                                                                         id="control"
-                                                                                                                                        style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                        style=""><strong><span
                                                                                                                                                 data-custom-class="heading_1">
                                                                                                                                                 <h2>10.
                                                                                                                                                     DO
@@ -3766,8 +3762,8 @@
                                                                                                                                                     RIGHTS?
                                                                                                                                                 </h2>
                                                                                                                                             </span></strong></span></span></span></span></span><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text"><strong><em>In
                                                                                                                                         Short:&nbsp;</em></strong><em>If
                                                                                                                                     you
@@ -3947,16 +3943,16 @@
                                                                                                                                 </span></span></span><a
                                                                                                                         data-custom-class="link"
                                                                                                                         href="#infocollect"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                style="font-size: 15px; color: rgb(0, 58, 250);"><span
+                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                     data-custom-class="body_text"><span
                                                                                                                                         data-custom-class="link">WHAT
                                                                                                                                         INFORMATION
                                                                                                                                         DO
                                                                                                                                         WE
                                                                                                                                         COLLECT?</span></span></span></span></a><span
-                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                 data-custom-class="body_text">
                                                                                                                                 <bdt
                                                                                                                                     class="block-component">
@@ -3978,22 +3974,22 @@
                                                                                                                             <th
                                                                                                                                 style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black; text-align: left;">
                                                                                                                                 <span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                             data-custom-class="body_text"><strong>Category</strong></span></span></span>
                                                                                                                             </th>
                                                                                                                             <th
                                                                                                                                 style="width: 51.4385%; border-top: 1px solid black; border-right: 1px solid black; text-align: left;">
                                                                                                                                 <span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                             data-custom-class="body_text"><strong>Examples</strong></span></span></span>
                                                                                                                             </th>
                                                                                                                             <th
                                                                                                                                 style="width: 14.9084%; border-right: 1px solid black; border-top: 1px solid black; text-align: center; text-align: left;">
                                                                                                                                 <span
-                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                             data-custom-class="body_text"><strong>Collected</strong></span></span></span>
                                                                                                                             </th>
                                                                                                                         </tr>
@@ -4005,8 +4001,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">A.
                                                                                                                                                 Identifiers</span></span></span>
                                                                                                                                 </div>
@@ -4016,8 +4012,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Contact
                                                                                                                                                 details,
                                                                                                                                                 such
@@ -4056,8 +4052,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4097,8 +4093,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">B.
                                                                                                                                                 Personal
                                                                                                                                                 information
@@ -4117,8 +4113,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Name,
                                                                                                                                                 contact
                                                                                                                                                 information,
@@ -4140,8 +4136,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="forloop-component">
@@ -4184,8 +4180,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4211,8 +4207,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Gender,
                                                                                                                                                 age,
                                                                                                                                                 date
@@ -4271,8 +4267,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4292,8 +4288,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Transaction
                                                                                                                                                 information,
                                                                                                                                                 purchase
@@ -4345,8 +4341,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4366,8 +4362,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Fingerprints
                                                                                                                                                 and
                                                                                                                                                 voiceprints</span></span></span>
@@ -4413,8 +4409,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4438,8 +4434,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Browsing
                                                                                                                                                 history,
                                                                                                                                                 search
@@ -4508,8 +4504,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4529,8 +4525,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Device
                                                                                                                                                 location</span></span></span>
                                                                                                                                 </div>
@@ -4575,8 +4571,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4600,8 +4596,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Images
                                                                                                                                                 and
                                                                                                                                                 audio,
@@ -4658,8 +4654,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4681,8 +4677,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Business
                                                                                                                                                 contact
                                                                                                                                                 details
@@ -4755,8 +4751,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4776,8 +4772,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Student
                                                                                                                                                 records
                                                                                                                                                 and
@@ -4821,12 +4817,12 @@
                                                                                                                         </tr>
                                                                                                                         <tr>
                                                                                                                             <td
-                                                                                                                                style="border-width: 1px; border-color: black; border-style: solid; width: 33.8274%;">
+                                                                                                                                style="border-width: 1px; border-border-style: solid; width: 33.8274%;">
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                 <bdt
                                                                                                                                                     class="block-component">
@@ -4850,8 +4846,8 @@
                                                                                                                                 <div
                                                                                                                                     style="line-height: 1.5;">
                                                                                                                                     <span
-                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                            style="font-size: 15px; "><span
                                                                                                                                                 data-custom-class="body_text">Inferences
                                                                                                                                                 drawn
                                                                                                                                                 from
@@ -4893,10 +4889,10 @@
                                                                                                                                             class="block-component">
                                                                                                                                         </bdt>
                                                                                                                                         NO<span
-                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                                     data-custom-class="body_text"><span
-                                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                        style=""><span
                                                                                                                                                             data-custom-class="body_text">
                                                                                                                                                             <bdt
                                                                                                                                                                 class="statement-end-if-in-editor">
@@ -5271,11 +5267,11 @@
                                                                                                                                                                             class="statement-end-if-in-editor">
                                                                                                                                                                         </bdt>
                                                                                                                                                                         </span></span><span
-                                                                                                                                                                    style="color: rgb(0, 58, 250);"><span
+                                                                                                                                                                    style=""><span
                                                                                                                                                                         data-custom-class="body_text"><a
                                                                                                                                                                             data-custom-class="link"
                                                                                                                                                                             href="#infocollect"><span
-                                                                                                                                                                                style="color: rgb (0, 58, 250); font-size: 15px;">WHAT
+                                                                                                                                                                                style="font-size: 15px;">WHAT
                                                                                                                                                                                 INFORMATION
                                                                                                                                                                                 DO
                                                                                                                                                                                 WE
@@ -5293,8 +5289,8 @@
                                                                                                                                                                             data-custom-class="body_text"></span>
                                                                                                                                                                     </bdt>
                                                                                                                                                                 </span><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><strong><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><strong><span
                                                                                                                                                                                 data-custom-class="heading_2">
                                                                                                                                                                                 <h3>How
                                                                                                                                                                                     We
@@ -5332,7 +5328,7 @@
                                                                                                                                                                 </span><a
                                                                                                                                                                     data-custom-class="link"
                                                                                                                                                                     href="#infouse"><span
-                                                                                                                                                                        style="color: rgb(0, 58, 250); font-size: 15px;">HOW
+                                                                                                                                                                        style="font-size: 15px;">HOW
                                                                                                                                                                         DO
                                                                                                                                                                         WE
                                                                                                                                                                         PROCESS
@@ -5359,10 +5355,10 @@
                                                                                                                                                             <div
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text"><span
-                                                                                                                                                                                style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                style="font-size: 15px;"><span
                                                                                                                                                                                     data-custom-class="body_text">
                                                                                                                                                                                     <bdt
                                                                                                                                                                                         class="block-component">
@@ -5372,8 +5368,8 @@
                                                                                                                                                             <div
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text"><strong>Will
                                                                                                                                                                                 your
                                                                                                                                                                                 information
@@ -5390,8 +5386,8 @@
                                                                                                                                                             <div
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">We
                                                                                                                                                                             may
                                                                                                                                                                             disclose
@@ -5435,8 +5431,8 @@
                                                                                                                                                                             </span></span></span><a
                                                                                                                                                                     data-custom-class="link"
                                                                                                                                                                     href="#whoshare"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(0, 58, 250);"><span
-                                                                                                                                                                            style="font-size: 15px; color: rgb(0, 58, 250);">WHEN
+                                                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                                                            style="font-size: 15px; ">WHEN
                                                                                                                                                                             AND
                                                                                                                                                                             WITH
                                                                                                                                                                             WHOM
@@ -5446,8 +5442,8 @@
                                                                                                                                                                             YOUR
                                                                                                                                                                             PERSONAL
                                                                                                                                                                             INFORMATION?</span></span></a><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">
                                                                                                                                                                             <bdt
                                                                                                                                                                                 class="block-component">
@@ -5465,8 +5461,8 @@
                                                                                                                                                             <div
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">We
                                                                                                                                                                             may
                                                                                                                                                                             use
@@ -5506,7 +5502,7 @@
                                                                                                                                                                             your
                                                                                                                                                                             personal
                                                                                                                                                                             information.<span
-                                                                                                                                                                                style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                style="font-size: 15px;"><span
                                                                                                                                                                                     data-custom-class="body_text">
                                                                                                                                                                                     <bdt
                                                                                                                                                                                         class="block-component">
@@ -5520,8 +5516,8 @@
                                                                                                                                                             <div
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">We
                                                                                                                                                                             have
                                                                                                                                                                             not
@@ -5548,7 +5544,7 @@
                                                                                                                                                                             (12)
                                                                                                                                                                             months.
                                                                                                                                                                             We<span
-                                                                                                                                                                                style="color: rgb(89, 89, 89);">&nbsp;</span>will
+                                                                                                                                                                                style="">&nbsp;</span>will
                                                                                                                                                                             not
                                                                                                                                                                             sell
                                                                                                                                                                             or
@@ -5566,11 +5562,11 @@
                                                                                                                                                                             and
                                                                                                                                                                             other
                                                                                                                                                                             consumers.<span
-                                                                                                                                                                                style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                                                style=""><span
                                                                                                                                                                                     data-custom-class="body_text"><span
-                                                                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                                                        style=""><span
                                                                                                                                                                                             data-custom-class="body_text"><span
-                                                                                                                                                                                                style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                                                                style=""><span
                                                                                                                                                                                                     data-custom-class="body_text">
                                                                                                                                                                                                     <bdt
                                                                                                                                                                                                         class="statement-end-if-in-editor">
@@ -5581,7 +5577,7 @@
                                                                                                                                                                                     </bdt>
                                                                                                                                                                                 </span></span></span></span></span><span
                                                                                                                                                                     data-custom-class="body_text"><span
-                                                                                                                                                                        style="color: rgb(0, 0, 0);"><span
+                                                                                                                                                                        style=""><span
                                                                                                                                                                             data-custom-class="body_text">
                                                                                                                                                                             <bdt
                                                                                                                                                                                 class="block-component">
@@ -6204,8 +6200,8 @@
                                                                                                                                                                                 Rights
                                                                                                                                                                             </h3>
                                                                                                                                                                         </span></span></strong><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">To
                                                                                                                                                                             exercise
                                                                                                                                                                             these
@@ -6220,7 +6216,7 @@
                                                                                                                                                                             by
                                                                                                                                                                             visiting
                                                                                                                                                                             <span
-                                                                                                                                                                                style="color: rgb(0, 58, 250);">
+                                                                                                                                                                                style="">
                                                                                                                                                                                 <bdt
                                                                                                                                                                                     class="question">
                                                                                                                                                                                     data-removal@maple.music
@@ -6230,9 +6226,9 @@
                                                                                                                                                                                 class="else-block">
                                                                                                                                                                             </bdt>
                                                                                                                                                                             </span><span
-                                                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                                                                         data-custom-class="body_text">
                                                                                                                                                                                         <bdt
                                                                                                                                                                                             class="block-component">
@@ -6610,9 +6606,9 @@
                                                                                                                                                                         class="statement-end-if-in-editor">
                                                                                                                                                                     </bdt>
                                                                                                                                                                 </span><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                                                 <bdt
                                                                                                                                                                                     class="block-component">
@@ -6761,7 +6757,7 @@
                                                                                                                                                                     data-custom-class="body_text"><a
                                                                                                                                                                         data-custom-class="link"
                                                                                                                                                                         href="#contact"><span
-                                                                                                                                                                            style="color: rgb(0, 58, 250); font-size: 15px;">HOW
+                                                                                                                                                                            style="font-size: 15px;">HOW
                                                                                                                                                                             CAN
                                                                                                                                                                             YOU
                                                                                                                                                                             CONTACT
@@ -6788,29 +6784,29 @@
                                                                                                                                                                         style="font-size: 15px;"></span>
                                                                                                                                                                 </bdt>
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                                                                         data-custom-class="body_text"><span
-                                                                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                                                                                         data-custom-class="body_text">
                                                                                                                                                                                                         <bdt
                                                                                                                                                                                                             class="statement-end-if-in-editor">
                                                                                                                                                                                                             <span
                                                                                                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                                                                        style="font-size: 15px; "><span
+                                                                                                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                                                                                                                         data-custom-class="body_text"><span
-                                                                                                                                                                                                                                            style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                                                                            style="font-size: 15px;"><span
                                                                                                                                                                                                                                                 data-custom-class="body_text"><span
-                                                                                                                                                                                                                                                    style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                                                                                    style="font-size: 15px;"><span
                                                                                                                                                                                                                                                         data-custom-class="body_text">
                                                                                                                                                                                                                                                         <bdt
                                                                                                                                                                                                                                                             class="statement-end-if-in-editor">
@@ -6839,12 +6835,12 @@
                                                                                                                                                             <div id="policyupdates"
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="color: rgb(127, 127, 127);"><span
-                                                                                                                                                                        style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style=""><span
+                                                                                                                                                                        style="font-size: 15px;"><span
+                                                                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                                                                     id="control"
-                                                                                                                                                                                    style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                                                                    style=""><strong><span
                                                                                                                                                                                             data-custom-class="heading_1">
                                                                                                                                                                                             <h2>11.
                                                                                                                                                                                                 DO
@@ -6856,8 +6852,8 @@
                                                                                                                                                                                                 NOTICE?
                                                                                                                                                                                             </h2>
                                                                                                                                                                                         </span></strong></span></span></span></span></span><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text"><em><strong>In
                                                                                                                                                                                     Short:&nbsp;</strong>Yes,
                                                                                                                                                                                 we
@@ -6881,8 +6877,8 @@
                                                                                                                                                             <div
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">We
                                                                                                                                                                             may
                                                                                                                                                                             update
@@ -6973,12 +6969,12 @@
                                                                                                                                                             <div id="contact"
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="color: rgb(127, 127, 127);"><span
-                                                                                                                                                                        style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style=""><span
+                                                                                                                                                                        style="font-size: 15px;"><span
+                                                                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                                                                     id="control"
-                                                                                                                                                                                    style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                                                                    style=""><strong><span
                                                                                                                                                                                             data-custom-class="heading_1">
                                                                                                                                                                                             <h2>12.
                                                                                                                                                                                                 HOW
@@ -6991,8 +6987,8 @@
                                                                                                                                                                                                 NOTICE?
                                                                                                                                                                                             </h2>
                                                                                                                                                                                         </span></strong></span></span></span></span></span><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">If
                                                                                                                                                                             you
                                                                                                                                                                             have
@@ -7005,7 +7001,7 @@
                                                                                                                                                                             you
                                                                                                                                                                             may
                                                                                                                                                                             <span
-                                                                                                                                                                                style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                style="font-size: 15px;"><span
                                                                                                                                                                                     data-custom-class="body_text">
                                                                                                                                                                                     <bdt
                                                                                                                                                                                         class="block-component">
@@ -7036,7 +7032,7 @@
                                                                                                                                                                         data-custom-class="body_text">
                                                                                                                                                                       
                                                                                                                                                                         <span
-                                                                                                                                                                            style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                                            style=""><span
                                                                                                                                                                                 style="font-size: 15px;">
                                                                                                                                                                                 <bdt
                                                                                                                                                                                     class="block-component">
@@ -7066,7 +7062,7 @@
                                                                                                                                                                 </bdt>
                                                                                                                                                                 <span
                                                                                                                                                                     data-custom-class="body_text"><span
-                                                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                                        style=""><span
                                                                                                                                                                             style="font-size: 15px;">
                                                                                                                                                                             <bdt
                                                                                                                                                                                 class="statement-end-if-in-editor">
@@ -7075,11 +7071,11 @@
                                                                                                                                                                     data-custom-class="body_text"><span
                                                                                                                                                                         style="font-size: 15px;"><span
                                                                                                                                                                             data-custom-class="body_text"><span
-                                                                                                                                                                                style="color: rgb(89, 89, 89);">
+                                                                                                                                                                                style="">
                                                                                                                                                                                 <bdt
                                                                                                                                                                                     class="statement-end-if-in-editor">
                                                                                                                                                                                     <span
-                                                                                                                                                                                        style="color: rgb(89, 89, 89);"><span
+                                                                                                                                                                                        style=""><span
                                                                                                                                                                                             style="font-size: 15px;"><span
                                                                                                                                                                                                 data-custom-class="body_text">
                                                                                                                                                                                                 <bdt
@@ -7099,7 +7095,7 @@
                                                                                                                                                                     <span
                                                                                                                                                                         style="font-size: 15px;"><span
                                                                                                                                                                             data-custom-class="body_text"><span
-                                                                                                                                                                                style="color: rgb(89, 89, 89); font-size: 15px;"><span
+                                                                                                                                                                                style="font-size: 15px;"><span
                                                                                                                                                                                     style="font-size: 15px;"><span
                                                                                                                                                                                         data-custom-class="body_text">
                                                                                                                                                                                         <bdt
@@ -7118,12 +7114,12 @@
                                                                                                                                                             <div id="request"
                                                                                                                                                                 style="line-height: 1.5;">
                                                                                                                                                                 <span
-                                                                                                                                                                    style="color: rgb(127, 127, 127);"><span
-                                                                                                                                                                        style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                                                                                                                                                                            style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                                style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style=""><span
+                                                                                                                                                                        style="font-size: 15px;"><span
+                                                                                                                                                                            style="font-size: 15px; "><span
+                                                                                                                                                                                style="font-size: 15px; "><span
                                                                                                                                                                                     id="control"
-                                                                                                                                                                                    style="color: rgb(0, 0, 0);"><strong><span
+                                                                                                                                                                                    style=""><strong><span
                                                                                                                                                                                             data-custom-class="heading_1">
                                                                                                                                                                                             <h2>13.
                                                                                                                                                                                                 HOW
@@ -7141,8 +7137,8 @@
                                                                                                                                                                                                 YOU?
                                                                                                                                                                                             </h2>
                                                                                                                                                                                         </span></strong></span></span></span></span></span><span
-                                                                                                                                                                    style="font-size: 15px; color: rgb(89, 89, 89);"><span
-                                                                                                                                                                        style="font-size: 15px; color: rgb(89, 89, 89);"><span
+                                                                                                                                                                    style="font-size: 15px; "><span
+                                                                                                                                                                        style="font-size: 15px; "><span
                                                                                                                                                                             data-custom-class="body_text">
                                                                                                                                                                             <bdt
                                                                                                                                                                                 class="block-component">
@@ -7253,7 +7249,7 @@
                                                                                                                                                                         </span><span
                                                                                                                                                                             data-custom-class="body_text">visit:
                                                                                                                                                                             <span
-                                                                                                                                                                                style="color: rgb(0, 58, 250);">
+                                                                                                                                                                                style="">
                                                                                                                                                                                 <bdt
                                                                                                                                                                                     class="question">
                                                                                                                                                                                     data-removal@maple.music

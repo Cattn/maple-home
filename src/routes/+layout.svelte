@@ -26,6 +26,8 @@
 				return 'Contact';
 			case '/apple':
 				return 'Apple';
+			case '/privacy':
+				return 'Privacy';
 			default:
 				return 'Unknown';
 		}
