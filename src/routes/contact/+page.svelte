@@ -11,18 +11,28 @@
     </div>
 </div>
 
-<div class="flex justify-center px-4 md:px-0">
-    <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-1">
-        <div class="text-wrap text-center text-secondary text-base md:text-xl">
-            <Button variant="text" onclick={() => {location.href = 'mailto:Logan@cattn.dev'}}>
-                Logan@cattn.dev
-            </Button>
+<div class="flex flex-col space-y-2">
+    <div class="flex justify-center px-4 md:px-0">
+        <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-1">
+            <div class="text-wrap text-center text-secondary text-base md:text-xl">
+                <Button variant="tonal" onclick={() => {location.href = 'mailto:logan@cattn.dev'}}>
+                    <iconify-icon icon="ic:round-email"></iconify-icon>
+                    <span class="md:inline">logan@cattn.dev</span>
+                </Button>
+            </div>
+            <div class="text-wrap text-center text-secondary text-base md:text-xl">
+                <Button variant="tonal" onclick={() => {location.href = 'mailto:potter@hammerpot.dev'}}>
+                    <iconify-icon icon="ic:round-email"></iconify-icon>
+                    <span class="md:inline">potter@hammerpot.dev</span>
+                </Button>
+            </div>
         </div>
-        <div class="text-wrap text-center text-secondary text-base md:text-xl">
-            <Button variant="text" onclick={() => {location.href = 'mailto:Logan@cattn.dev'}}>
-                nailington@mathstudy.dev
-            </Button>
-        </div>
+    </div>
+    <div class="text-wrap text-center text-secondary text-base md:text-xl">
+        <Button variant="tonal" onclick={() => {location.href = 'https://discord.gg/Wxrp73HVj4'}}>
+            <iconify-icon icon="ic:round-open-in-new"></iconify-icon>
+            <span class="md:inline">Join our Discord Server</span>
+        </Button>
     </div>
 </div>
 

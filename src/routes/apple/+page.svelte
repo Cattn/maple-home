@@ -13,10 +13,13 @@
 <div class="flex justify-center px-4 md:px-0">
     <div class="flex space-x-1 flex-col space-y-2">
         <h1 class="text-wrap text-center text-secondary text-base md:text-xl">
-            For now, testflight links can be found in our discord server.
+            You can find Maple on the App Store!<br>Additionally your can use the latest beta builds by joining the TestFlight group.
         </h1>
-        <Button variant="tonal" onclick={() => {location.href = 'https://discord.gg/Wxrp73HVj4'}}>
-            Join now
+        <Button variant="tonal" onclick={() => {location.href = 'https://apps.apple.com/us/app/maple-music/id6751007051'}}>
+            App Store
+        </Button>
+        <Button variant="tonal" onclick={() => {location.href = 'https://testflight.apple.com/join/1pcMjAqQ'}}>
+            TestFlight
         </Button>
     </div>
 </div>
